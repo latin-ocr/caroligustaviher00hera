@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caroligustaviher00hera_0341.png"; bbox 0 0 1804 3079; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 596 923 1190 1016">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 596 923 1190 1016">
+     <span class='ocr_line' id='line_1_1' title="bbox 596 923 1190 1016; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 596 923 1003 1016; x_wconf 81' lang='lat' dir='ltr'>Mantiffa</span> <span class='ocrx_word' id='word_1_2' title='bbox 1052 999 1058 1002; x_wconf 23' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1186 928 1190 932; x_wconf 78' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 78 1109 1542 1375">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 78 1109 1542 1375">
+     <span class='ocr_line' id='line_1_2' title="bbox 78 1109 1542 1375; baseline 0.004 -135"><span class='ocrx_word' id='word_1_4' title='bbox 78 1110 1125 1375; x_wconf 44' lang='lat' dir='ltr'><strong>SCRInglfflffi</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1135 1109 1542 1255; x_wconf 58' lang='lat' dir='ltr'>Quo„-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1430 1804 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1430 1804 1660">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1430 1804 1568; baseline 0.004 -44"><span class='ocrx_word' id='word_1_6' title='bbox 0 1434 232 1557; x_wconf 82' lang='lat' dir='ltr'>Quae</span> <span class='ocrx_word' id='word_1_7' title='bbox 269 1435 612 1555; x_wconf 81' lang='lat' dir='ltr'>quidem</span> <span class='ocrx_word' id='word_1_8' title='bbox 645 1434 750 1523; x_wconf 82' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_9' title='bbox 767 1435 989 1522; x_wconf 85' lang='lat' dir='ltr'>hanc</span> <span class='ocrx_word' id='word_1_10' title='bbox 1018 1437 1651 1532; x_wconf 68' lang='lat' dir='ltr'>collefflonem</span> <span class='ocrx_word' id='word_1_11' title='bbox 1791 1430 1804 1568; x_wconf 55' lang='lat' dir='ltr'>j</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 514 1563 1793 1660; baseline 0.005 -26"><span class='ocrx_word' id='word_1_12' title='bbox 514 1584 830 1660; x_wconf 88' lang='lat' dir='ltr'>noernp</span> <span class='ocrx_word' id='word_1_13' title='bbox 753 1568 940 1639; x_wconf 85' lang='lat' dir='ltr'>tn</span> <span class='ocrx_word' id='word_1_14' title='bbox 947 1580 1096 1646; x_wconf 82' lang='lat' dir='ltr'>nt</span> <span class='ocrx_word' id='word_1_15' title='bbox 1597 1563 1793 1609; x_wconf 34' lang='grc' dir='ltr'>Μ’·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
